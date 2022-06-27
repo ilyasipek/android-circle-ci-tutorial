@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "144783778844",
+    "project_id": "android-circle-ci-tutorial",
+    "storage_bucket": "android-circle-ci-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144783778844:android:0dc9ccb1efe93b16f86bd9",
+        "android_client_info": {
+          "package_name": "com.example.circle_ci_template_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144783778844-25qdgirfqkutf7p9cpqh86o670aogdg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.circle_ci_template_application",
+            "certificate_hash": "86e3fba44d7ae2c6ba23c43976178871d23b8643"
+          }
+        },
+        {
+          "client_id": "144783778844-30pl1e3dc7f44vgah8thphid0e1pb6ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPS3WQZlUbg4Acuqbst9Lzmfud4l0Deq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144783778844-30pl1e3dc7f44vgah8thphid0e1pb6ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
